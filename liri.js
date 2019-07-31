@@ -65,7 +65,6 @@ inquirer
                               return console.log('Error occurred: ' + err);
                             }
                             else{
-                                console.log("this is actually happening")
                                 //  for(i=0; i < data.tracks.items.length; i++)
                                 // console.log(data.tracks.items[0].artists[0].name)
                                 console.log("\nArtist: " + data.tracks.items[0].artists[0].name)
