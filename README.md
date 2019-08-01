@@ -38,7 +38,7 @@ concerts for the artist (or an apology for not being able to find any) and stop 
 
 Pictures of LIRIbot running:
 
-LIRI-bot/images
+Uhhh... I'm not sure how to pop images into this readme. But, you can find examples of LIRIbot's various functions in the images folder I've included in this repo.
 
 ----------------------
 
