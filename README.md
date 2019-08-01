@@ -16,7 +16,7 @@ want to search for. Their input is then used as a search query in the particular
 
 Instructions for use:
 
- -WARNING- If you clone this project, the Spotify search will not work unless you supply your own .env file with your API keys. -WARNING- 
+ -WARNING- If you clone this project, the Spotify search will not work unless you supply your own .env file with your own Spotify API keys. -WARNING- 
 
 1. Run the program in node. You don't have to pass it any additional arguments, that's all taken care of in the program.
 
