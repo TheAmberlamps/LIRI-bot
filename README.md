@@ -36,6 +36,12 @@ concerts for the artist (or an apology for not being able to find any) and stop 
 
 ----------------------
 
+Pictures of LIRIbot running:
+
+LIRI-bot/images
+
+----------------------
+
 Technologies used in development: Node Spotify API, Axios, OMDB API, Bands In Town API, Moment, DotEnv, Inquirer, fs.
 
 ----------------------
