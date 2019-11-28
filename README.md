@@ -16,7 +16,7 @@ want to search for. Their input is then used as a search query in the particular
 
 Instructions for use:
 
- -WARNING- If you clone this project, the Spotify search will not work unless you supply your own .env file with your API keys. -WARNING- 
+ -WARNING- If you clone this project, the Spotify search will not work unless you supply your own .env file with your own Spotify API keys. -WARNING- 
 
 1. Run the program in node. You don't have to pass it any additional arguments, that's all taken care of in the program.
 
@@ -33,6 +33,12 @@ Instructions for use:
 concerts for the artist (or an apology for not being able to find any) and stop running.
 
 6. If you are searching for a movie, enter its title. OMDB will then return information about the film and stop running.
+
+----------------------
+
+Pictures of LIRIbot running:
+
+Uhhh... I'm not sure how to pop images into this readme. But, you can find examples of LIRIbot's various functions in the images folder I've included in this repo.
 
 ----------------------
 
